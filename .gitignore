@@ -1,5 +1,6 @@
 *.pyc
 *.so
 *.dylib
-*.sqlite3*
 *.DS_Store*
+*cblite2/
+
